@@ -1,0 +1,32 @@
+.pos
+	{
+		text-align:center;
+		font-size:25px;
+		font-family:times new roman;
+		font-weight:bold;
+		clear:both;
+		margin-top:100px;
+	}
+
+.ballot
+	{
+		width:400px;
+		margin-top:50px;
+		font-size:20px;
+		font-family:arial;
+		font-weight:bold;
+	}
+	
+#position	
+	{
+		float:left;
+		margin-left:20px;
+		margin-right:20px;
+		margin-bottom:100px;
+	}
+
+#position img
+	{
+		cursor:pointer;
+	}
+	
